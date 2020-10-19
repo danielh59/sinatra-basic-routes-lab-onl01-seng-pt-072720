@@ -6,8 +6,10 @@ class App < Sinatra::Base
     "My name is Blank"
   end
 
-  get '/hometown'
+  get '/hometown' do
   "My hometown is blank"
   end
+  get '/favorite-song' do
+  
 
 end
