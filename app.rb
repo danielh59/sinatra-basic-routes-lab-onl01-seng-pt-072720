@@ -8,6 +8,6 @@ class App < Sinatra::Base
 
   get '/hometown'
   "My hometown is blank"
-  end 
+  end
 
 end
